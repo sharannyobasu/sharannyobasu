@@ -1,5 +1,7 @@
 ### Hey there ! I am Sharannyo Basu ! 👋
 
+![GitHub watchers](https://img.shields.io/github/watchers/sharannyobasu/sharannyobasu?color=181717&label=Views&logo=Github&style=social)
+
 
 Here are some ideas to get you started:
 
@@ -20,3 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can talk 24/7 about football.
 
 <img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=4885ed">
+
+
