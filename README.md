@@ -1,4 +1,4 @@
-# Hey there ! I am Sharannyo Basu ! ###<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <hr>
 
