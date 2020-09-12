@@ -21,7 +21,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=4885ed">
+<img src="https://github-readme-stats.vercel.app/api?username=sharannyobasu&&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=24292e">
 
 
 
