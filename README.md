@@ -22,4 +22,4 @@
 
 <hr>
 
-<img src="https://github-readme-stats-2.sharannyobasu.vercel.app/api?username=sharannyobasu&&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
+<img src="https://github-readme-stats.sharannyobasu.vercel.app/api?username=sharannyobasu&&show_icons=true&title_color=03fc90&icon_color=03fc90&text_color=03fc90&bg_color=002b19">
