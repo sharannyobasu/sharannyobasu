@@ -1,13 +1,9 @@
 # Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-<hr>
-
 <p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
 </p>
-
-<hr>
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
