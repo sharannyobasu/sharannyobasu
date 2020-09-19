@@ -14,7 +14,7 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong>
-- 🌱 I’m currently learning <strong>Open Source and React JS</strong>
+- 🌱 I’m currently contributing to <strong>Open Source</strong> and learning <strong>React JS</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 🤔 I’m looking for help in <strong>Machine Learning / Data Science</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
