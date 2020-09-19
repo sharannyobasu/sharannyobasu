@@ -1,10 +1,10 @@
 ![Name](Hello(1).gif)
 ![Name](Name.png)
 
-<p> 
-  Visitor count<br>
+
+ #### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/shrannyobasu/count.svg" />
-</p>
+
 
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
