@@ -1,4 +1,4 @@
-# Hey there ! I am Sharannyo Basu ! &emsp;  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
+![Name](githubname.gif)
 
 <p> 
   Visitor count<br>
