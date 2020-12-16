@@ -13,7 +13,7 @@
 ### Here are some ideas to help you get started:
 
 - 🔭 I’m currently working on <strong>Full-Stack Web Development</strong> and <strong>Open Source Contributions</strong>
-- 🌱 I’m currently learning <strong>React JS</strong>
+- 🌱 I’m currently learning <strong>Product Management</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong>
 - 💬 Ask me about <strong>Data Structures in C++, JavaScript, Bootstrap, Graphic Designing (Canva), VCS and Personal Branding</strong>
 - ⚡ Fun fact: I can talk 24/7 about football.
